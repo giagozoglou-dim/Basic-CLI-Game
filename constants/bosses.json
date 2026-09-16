@@ -1,0 +1,18 @@
+{
+  "Jacob": {
+    "health": 150,
+    "damage": 17
+  },
+  "The Keeper": {
+    "health": 120,
+    "damage": 21
+  },
+  "Magdalene": {
+    "health": 180,
+    "damage": 16
+  },
+  "The Forlorn": {
+    "health": 90,
+    "damage": 32
+  }
+}

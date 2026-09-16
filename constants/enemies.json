@@ -1,0 +1,46 @@
+{
+  "Snake": {
+    "health": 15,
+    "damage": 7
+  },
+  "Skeleton": {
+    "health": 55,
+    "damage": 7
+  },
+  "The Fanatic": {
+    "health": 40,
+    "damage": 12
+  },
+  "Spider": {
+    "health": 10,
+    "damage": 7
+  },
+  "Mad Mosquito": {
+    "health": 20,
+    "damage": 14
+  },
+  "Kamikaze": {
+    "health": 16,
+    "damage": 25
+  },
+  "Headless Knight": {
+    "health": 30,
+    "damage": 10
+  },
+  "Bishop": {
+    "health": 45,
+    "damage": 10
+  },
+  "Phantom": {
+    "health": 35,
+    "damage": 7
+  },
+  "Minion": {
+    "health": 25,
+    "damage": 12
+  },
+  "Sewer Rat": {
+    "health": 40,
+    "damage": 12
+  }
+}

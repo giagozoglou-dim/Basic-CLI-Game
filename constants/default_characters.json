@@ -1,0 +1,35 @@
+{
+  "Jax": {
+    "name": "Jax",
+    "current_health": 150,
+    "max_health": 150,
+    "damage": 15,
+    "inventory": [
+      "Bandage"
+    ],
+    "current_room": 1,
+    "game_status": 1
+  },
+  "Casper": {
+    "name": "Casper",
+    "current_health": 100,
+    "max_health": 100,
+    "damage": 20,
+    "inventory": [
+      "Bandage"
+    ],
+    "current_room": 1,
+    "game_status": 1
+  },
+  "Blitz": {
+    "name": "Blitz",
+    "current_health": 50,
+    "max_health": 50,
+    "damage": 35,
+    "inventory": [
+      "Painkiller"
+    ],
+    "current_room": 1,
+    "game_status": 1
+  }
+}
